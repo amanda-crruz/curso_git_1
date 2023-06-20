@@ -1,2 +1,0 @@
-Testano edição no repo 1
-novo teste de atualização após o clone
